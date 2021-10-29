@@ -7,7 +7,7 @@
 
 ## 成功效果展示
 一个很长的gif片段
-![demo](./crystal_growth.gif)
+![image](./crystal_growth.gif)
 
 ## 参考资料
 https://zhuanlan.zhihu.com/p/411798670
