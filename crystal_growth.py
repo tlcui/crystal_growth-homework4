@@ -27,6 +27,7 @@ pixels = ti.Vector.field(3, dtype=ti.f32, shape=(res,res))
 #t_min = 0
 
 # p stands for phase and t stands for temperature
+# p=0 stands for liquid and p=1 stands for solid
 p_old = ti.field(ti.f32, shape = (n,n)) 
 p_new = ti.field(ti.f32, shape = (n,n))
 t_old = ti.field(ti.f32, shape = (n,n)) 
