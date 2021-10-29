@@ -6,9 +6,8 @@
 枝晶固化生长即由液态变为固态的过程。其他具体内容可见参考资料的最后一部分
 
 ## 成功效果展示
-这里可以展示这份作业（项目）run起来后的可视化效果，可以让其他人更直观感受到你的工作
-to be finished
-![fractal demo](./data/fractal.jpg)
+一个很长的gif片段
+![demo](./crystal growth.gif)
 
 ## 参考资料
 https://zhuanlan.zhihu.com/p/411798670
