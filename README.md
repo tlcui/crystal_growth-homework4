@@ -10,5 +10,5 @@
 ![image](https://github.com/tlcui/crystal_growth-homework4/blob/master/crystal_growth.gif)
 
 ## 参考资料
-[1] https://zhuanlan.zhihu.com/p/411798670
+[1] https://zhuanlan.zhihu.com/p/411798670  
 [2] R. Kobayashi, Modeling and numerical simulations of dendritic crystal growth, Physica D: Nonlinear Phenomena. 63 (1993) 410–423. https://doi.org/10.1016/0167-2789(93)90120-P
