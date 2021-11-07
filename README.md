@@ -3,7 +3,7 @@
 本作业有两份，分别是explicit求解(crystal_growth.py)和implicit求解(crystal_growth_implicit.py)，其中implicit求解的版本是将温度t进行implicit求解，而对phase的求解仍然是explicit的，这与原始论文[2]中的方法保持了一致。
 
 ## 背景简介
-枝晶固化生长即由液态变为固态的过程。其他具体内容可见参考资料的最后一部分
+枝晶固化生长即由液态变为固态的过程。其他具体内容可见参考资料[1]的最后一部分
 
 ## 成功效果展示
 一个很长的gif片段
