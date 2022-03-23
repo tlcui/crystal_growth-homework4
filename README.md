@@ -7,6 +7,7 @@
 
 ## 结果展示
 一个很长的gif片段
+
 ![image](https://github.com/tlcui/crystal_growth-homework4/blob/master/crystal_growth.gif)
 
 ## 参考资料
