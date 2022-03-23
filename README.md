@@ -5,7 +5,7 @@
 ## 背景简介
 枝晶固化生长即由液态变为固态的过程。其他具体内容可见[1]的最后一部分
 
-## 成功效果展示
+## 结果展示
 一个很长的gif片段
 ![image](https://github.com/tlcui/crystal_growth-homework4/blob/master/crystal_growth.gif)
 
